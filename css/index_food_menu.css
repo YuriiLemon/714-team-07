@@ -56,9 +56,9 @@
 
     .fullCard {
         min-width: 320px;
-        width: auto;
+        width: 370;
         height: 470px;
-        border: 1px solid #ccc;
+        border: 0px solid #ccc;
         border-radius: 5px;
         margin: 10px 5px;
         
