@@ -51,7 +51,7 @@
         justify-content: center;
         text-align: center;
         margin: auto;
-        min-width: 320px;
+        /* min-width: 320px; */
     }
 
     .fullCard {
