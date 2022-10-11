@@ -44,8 +44,8 @@
     }
 
     .smallerImage {
-        width: 300px;     
-        height: auto;
+        width: 320px;     
+        height: 250px;
         object-fit: cover;
         display: flex;
         justify-content: center;
