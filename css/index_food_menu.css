@@ -88,9 +88,7 @@
         overflow: scroll;
         scroll-behavior: smooth; 
 
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap; 
+  
       }
        
       .slide {
@@ -102,7 +100,7 @@
 
 
 
- /*   .slides-container {
+    .slides-container {
         scrollbar-width: none; 
         -ms-overflow-style: none;  
     }
@@ -112,7 +110,7 @@
         height: 0;
     }
 
-*/
+
 
     .slide-arrow {
         position: absolute;
