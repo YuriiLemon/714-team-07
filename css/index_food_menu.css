@@ -96,18 +96,17 @@
 
 
 
-    .slides-container {
-        scrollbar-width: none; /* Firefox */
-        -ms-overflow-style: none;  /* Internet Explorer 10+ */
+ /*   .slides-container {
+        scrollbar-width: none; 
+        -ms-overflow-style: none;  
     }
      
-    /* WebKit */
-    .slides-container::-webkit-scrollbar { 
+        .slides-container::-webkit-scrollbar { 
         width: 0;
         height: 0;
     }
 
-
+*/
 
     .slide-arrow {
         position: absolute;
