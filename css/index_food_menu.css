@@ -86,7 +86,11 @@
         margin: auto;
         padding: 0;
         overflow: scroll;
-        scroll-behavior: smooth;
+        scroll-behavior: smooth; 
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap; 
       }
        
       .slide {
