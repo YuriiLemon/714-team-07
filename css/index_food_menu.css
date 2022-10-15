@@ -88,7 +88,7 @@
       }
        
       .slide {
-        width: 100%;
+        width: 33%;
         height: 100%;
         flex: 1 0 100%;
       }
@@ -96,7 +96,7 @@
 
 
 
-      .slides-container {
+    .slides-container {
         scrollbar-width: none; /* Firefox */
         -ms-overflow-style: none;  /* Internet Explorer 10+ */
     }
