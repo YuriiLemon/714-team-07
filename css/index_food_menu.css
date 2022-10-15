@@ -78,7 +78,7 @@
        
       .slides-container {
         height: calc(100vh - 2rem);
-        width: 90%;
+        width: 80%;
         display: flex;
         list-style: none;
         margin: auto;
