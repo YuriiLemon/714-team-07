@@ -154,7 +154,7 @@
         text-decoration:none;
         font-family:'Roboto',sans-serif;
         font-weight:300;
-        color:#ffffff;
+        color:#000000;
         text-align:center;
         transition: all 0.2s;
         }
@@ -168,7 +168,11 @@
 
         .button1{
         display:block;
-        margin:auto;
+        margin: auto;
         }
 
+        }
+
+        .center_button {
+            margin: auto;
         }
