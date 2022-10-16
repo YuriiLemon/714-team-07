@@ -20,7 +20,7 @@
     }
 
 
-   /* .swipes_of_food {
+    .swipes_of_food {
         color: black;
         font-family: var(--main-font);
         font-size: 16px;
@@ -32,7 +32,7 @@
         justify-content: space-around;
         align-items: center;
         flex-wrap: wrap; 
-    } */
+    } 
     
 
     .bottom_of_menu {
